@@ -7,4 +7,4 @@ special thanks to the people and wiki pages who influenced this:
  - https://github.com/InBetweenNames/gentooLTO
  - https://gitgud.io/cloveros
 
-Please note: this is for ricing only; kernel builds fail when used with ld.gold as of 5.2.0
+Included is a script, forked from cloveros, for building kernels and initramfs while with ld.bfd while reverting to ld.gold at end of the creation process.  
